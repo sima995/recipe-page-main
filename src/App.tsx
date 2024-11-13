@@ -16,7 +16,7 @@ export const omletteRecipe = new RecipeData(
     "Salt, to taste",
     "Pepper, to taste",
     "1 tablespoon of butter or oil",
-    "Optional fillings: cheese, diced vegetables, cokked meats, herbs",
+    "Optional fillings: cheese, diced vegetables, cooked meats, herbs",
   ],
   [
     new Instruction(
