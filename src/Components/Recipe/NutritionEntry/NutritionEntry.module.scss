@@ -1,0 +1,9 @@
+.container{
+    display: grid;
+    grid-template-columns: 50% auto;    
+    padding-left: 2rem;
+}
+
+.value{
+    color: var(--clr-brown-800);
+}

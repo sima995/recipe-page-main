@@ -1,0 +1,50 @@
+@font-face {
+  font-family: 'Outfit';
+  src: local('Outfit'), url(./fonts/Outfit.ttf) format('truetype');
+  /* other formats include: 'woff2', 'truetype, 'opentype',
+                            'embedded-opentype', and 'svg' */
+}
+
+@font-face {
+  font-family: 'YoungSerif';
+  src: local('YoungSerif'), url(./fonts/YoungSerif.ttf) format('truetype');
+  /* other formats include: 'woff2', 'truetype, 'opentype',
+                            'embedded-opentype', and 'svg' */
+}
+
+:root{
+  font-family: "Outfit";
+  background: var(--clr-stone-150);
+}
+
+
+
+h1, h2{
+  font-family: 'YoungSerif';
+  line-height: 100%;
+  padding-top: 1rem;
+}
+
+h1{
+  color: var(--clr-stone-900);
+}
+
+h2{
+  color: var(--clr-brown-800);
+}
+
+p, li{
+  color: var(--clr-stone-600);
+  font-size: 16px;
+}
+
+li{
+  margin-block: 1rem;
+  padding-left: 1rem;
+}
+
+ul, ol{
+  padding-left: 1.5rem;
+  margin-bottom: 2rem;
+}
+

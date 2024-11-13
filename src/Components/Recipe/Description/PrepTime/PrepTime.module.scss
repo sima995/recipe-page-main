@@ -1,0 +1,21 @@
+.container{
+    background: var(--clr-rose-50);
+    border-radius: 10px;
+    padding-inline: 2rem;
+    padding-block: 1rem;
+    margin-top: 2rem;
+}
+
+.container li::marker{
+    color: var(--clr-rose-800);
+}
+
+.container ul{
+    margin-bottom: 0;
+}
+
+.title{
+    color: var(--clr-rose-800);
+    margin-top: 0;
+}
+
