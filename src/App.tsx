@@ -1,5 +1,5 @@
 import "./App.css";
-import "../dist/css/main.css";
+import "./main.css";
 
 import Recipe from "./Components/Recipe/Recipe";
 import { RecipeData } from "./RecipeData";

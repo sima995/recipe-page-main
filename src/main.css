@@ -1,0 +1,12 @@
+:root {
+  --clr-white-100: hsl(0, 0%, 100%);
+  --clr-stone-100: hsl(30, 54%, 90%);
+  --clr-stone-150: hsl(30, 18%, 87%);
+  --clr-stone-600: hsl(30, 10%, 34%);
+  --clr-stone-900: hsl(24, 5%, 18%);
+  --clr-brown-800: hsl(14, 45%, 36%);
+  --clr-rose-50: hsl(330, 100%, 98%);
+  --clr-rose-800: hsl(332, 51%, 32%);
+}
+
+/*# sourceMappingURL=main.css.map */
